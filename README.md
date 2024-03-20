@@ -1,6 +1,8 @@
 ### Hi, I'm Alexis Muñoz 👋 
 
 I am a computer engineer looking to learn new ✨technologies✨.
+
+<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWRhMHZkeWdnbjRrZ3d3MWgxcnBmYndsaXRuYTNnbHVvcDl0NDR3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNFhOolVeCzPQ2Mx85/giphy.gif" width="230" />
 <!--
 **AlexisN1ght/AlexisN1ght** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
